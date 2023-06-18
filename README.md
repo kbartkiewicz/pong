@@ -1,2 +1,2 @@
 # pong
-pong game created in pygame
+Pong game
